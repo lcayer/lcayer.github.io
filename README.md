@@ -5,6 +5,6 @@
 2，好的blog分享
 3，未能涉及的知识点
 
-# connotation
+# connection
 
 lcayer@163.com
