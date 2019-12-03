@@ -6,6 +6,5 @@
 3，未能涉及的知识点
 
 # connection
-https://lcayer.github.io/
-
-lcayer@163.com
+#https://lcayer.github.io/
+#lcayer@163.com
